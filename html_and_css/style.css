@@ -1,0 +1,17 @@
+.greeting.greeting--hello {
+	background-color: lightskyblue;
+}
+
+.greeting {
+	display: inline-block;
+	width: 200px;
+	height: 200px;
+	background-color: #2d1c16;
+	margin: 10px 20px 0 40px;
+	border: 18px solid #fffc90;
+	box-sizing: border-box;
+}
+
+.greetin.greeting--goodbye {
+	background-color: darkseagreen;
+}
