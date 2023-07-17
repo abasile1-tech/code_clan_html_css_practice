@@ -12,6 +12,10 @@
 	box-sizing: border-box;
 }
 
-.greetin.greeting--goodbye {
+.greeting.greeting--goodbye {
 	background-color: darkseagreen;
+}
+
+.greeting__title {
+	color: red;
 }
